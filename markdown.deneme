@@ -1,0 +1,19 @@
+# Basliklar -> h1
+## -> h2
+### -> h3
+
+- list item 1 {link.bilgisi](https://www.patika.dev/tr)
+- list item 2
+
+* list item 1
+* list item 2
+
+*italic* **bold** ***bolditalic***
+[Google.Gitmek.İçin.Tıklayınız](https://google.com)
+[Kodluyoruz Sayfamız](https://www.kodluyoruz.org/) 
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
+'''
+`console.log("Hello, World!");`
+'''
+***
