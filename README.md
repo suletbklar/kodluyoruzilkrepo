@@ -14,3 +14,4 @@ MIT
 ### İMAGE
 ![Lorem picsum Gorsel] (https://picsum.photos/id/237/200/300)
 ***
+www.patika.dev
